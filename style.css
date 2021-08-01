@@ -1,6 +1,7 @@
 * {
   font-family: roboto, sans-serif;
   color: gray;
+  box-sizing: border-box;
 }
 h1 {
   font-size: 55px;
